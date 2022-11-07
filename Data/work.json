@@ -1,0 +1,16 @@
+       { "experience": {
+            "internship": {
+                "company": "Techsysmeric Technology",
+                "DOJ": "24-8-2021",
+                "DOQ": "30-11-2021",
+                "Jobtitle": "Full Stack Developer",
+                "Salary": "10000"
+            },
+            "full-time": {
+                "company": "Tata Consultancy Services",
+                "DOJ": "06-12-2021",
+                "Jobtitle": "Gradatee Trainee",
+                "Salary": "12000"
+            }
+        }
+    }

@@ -1,0 +1,30 @@
+{
+    "education": [
+        {
+            "id": 1,
+            "class": "10th",
+            "school": "Late.Vittaravji Shinde High school Ambad-413208",
+            "Board": "SSC",
+            "percentage": "85.40%",
+            "year": "2016"
+        },
+        {
+            "id": 2,
+            "class": "12th",
+            "College": "Late.Vittaravji Shinde Art and Science College Ambad-413208",
+            "Board": "HSC",
+            "percentage": "69.69%",
+            "year": "2019"
+        },
+        {
+            "id": 3,
+            "class": "Bsc Computer Science",
+            "College": "PE's Modern College of Art,Science and Commerce Ganeshkhind,Pune-16",
+            "University": "Savitribai Phule Pune University",
+            "percentage": "64.4%",
+            "year": "2021"
+        }
+    ]
+
+
+}
